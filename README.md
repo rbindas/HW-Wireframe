@@ -1,2 +1,2 @@
 # HW-Wireframe
-Building a Wireframe - Assignment 1
+Building the basic architecture of a web page - Assignment 1
